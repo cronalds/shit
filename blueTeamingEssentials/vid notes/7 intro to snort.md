@@ -45,6 +45,9 @@
 
 <img src="./snort rule syntax.png">
 
+- www.cyb3rs3c.net
+  - snorpy rule generator
+
 ## how snort works
 
 <img src="./how snort works.png">
